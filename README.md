@@ -1,2 +1,3 @@
-# Lab 2 - Starter
-https://github.com/ucsd-zhl135/Lab2_Starter
+# Lab 3
+
+https://ucsd-zhl135.github.io/sp24-cse110-lab3/
