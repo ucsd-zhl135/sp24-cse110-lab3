@@ -17,6 +17,13 @@ footer{
   margin-bottom: 1in
 }
 
+/* screen issue */
+@media (max-width: 600px){
+  html {
+    background-color: lightcoral;
+  }
+}
+
 h1,h3 {
   color: hsl(69,420,1338);
   margin-left: 100px;
