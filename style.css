@@ -59,7 +59,7 @@ h2 {
     color: cyan;
   }
 }
-form{
+html form{
   display: grid;
   row-gap: 5px;
   column-gap: 6px;
